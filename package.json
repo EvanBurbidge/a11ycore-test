@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@a11ycore/jest": "^1.5.2",
+    "@a11ycore/puppeteer": "^1.5.0",
+    "@a11ycore/reporter": "^1.8.1",
+    "@a11ycore/selenium": "^1.5.1",
+    "jest": "^26.6.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
